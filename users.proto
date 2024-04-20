@@ -1,5 +1,5 @@
 syntax = "proto3";
-option go_package = "github.com/macqueen01/user-service/service";
+option go_package = "github.com/macqueen01/grpc-user-protobuf";
 
 
 service UserService {

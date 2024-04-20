@@ -1,4 +1,4 @@
-module github.com/macqueen01/user-service/service
+module github.com/macqueen01/grpc-user-protobuf
 
 go 1.19
 
